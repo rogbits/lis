@@ -1,0 +1,10 @@
+1: 4          paths at length 3     12              ops
+2: 96         paths at length 12    1152            ops
+3: 26496      paths at length 16    423,936         ops
+4: 67108864   paths at length 27    1,811,939,328   ops
+5: 6987776000 paths at length 41    286,498,816,000 ops
+
+O(n+PL)
+P=number of permutations
+L=length of LIS
+
